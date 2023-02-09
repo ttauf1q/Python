@@ -1,5 +1,0 @@
-num=input('Enter the numbers: ').split()
-num1=sorted(num,reverse=True)
-num2=sorted(num)
-print(f'here ur numbers in descending order: {num1}')
-print(f'here ur numbers in ascending order: {num2}')
